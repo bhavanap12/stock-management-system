@@ -5,11 +5,11 @@ The stock management system allows users to store, issue and receive items using
 Detailed features include:
 ## Login and logout 
 A standard login and logout page that enables users to login using username and password.
-![Screenshot 2023-10-04 144532](https://github.com/bhavanap12/stock-management-system/assets/23119773/a87b66a6-44be-4515-b08f-f5c4c0def31d)
+![Screenshot 2023-10-04 144532](https://github.com/bhavanap12/stock-management-system/assets/23119773/33111b08-30ed-4834-b3ed-c696c77ff7d8)
 
 ## Home page 
 Home page which has brief description of the system
-![Screenshot 2023-10-04 144550](https://github.com/bhavanap12/stock-management-system/assets/23119773/9f2bcfe3-32f6-4c65-a87d-9d81e036f5da)
+![Screenshot 2023-10-04 144550](https://github.com/bhavanap12/stock-management-system/assets/23119773/f8e8a519-f8aa-42db-bc74-20e2d56a6bdc)
 
 ## List Items
 A list of items page where the list is stored in a table and can be filtered using Category and Item name. The list can also be exported as a CSV file by checking the displayed box. This has the id, category, item name, quantity, reorder level, timestamp and delete button.
@@ -17,25 +17,25 @@ A list of items page where the list is stored in a table and can be filtered usi
 
 ## Update Items
 The quantity can be updated by clicking on the Item name in the List of Items table. The redirected page looks like this
-![Screenshot 2023-10-04 144718](https://github.com/bhavanap12/stock-management-system/assets/23119773/38489ea0-9f78-41f4-8fbd-78a0543ac1d3)
+![Screenshot 2023-10-04 144718](https://github.com/bhavanap12/stock-management-system/assets/23119773/ce2ebf44-4595-464f-8f56-e59cc96f0ad3)
 
 ## Issue/Receive Items
 Items can be issued or recieved by clicking on the quantity in the List of Items table. The redirected page has Issue and Recieve button
-![Screenshot 2023-10-04 144730](https://github.com/bhavanap12/stock-management-system/assets/23119773/bdb6772a-5369-4a76-b876-84c3c9c5525c)
+![Screenshot 2023-10-04 144730](https://github.com/bhavanap12/stock-management-system/assets/23119773/d3d15ab4-c192-4b2f-94dd-e2037ca68a28)
 
 Issue page has quantity to be issued and issue to fields which helps in tracking of the items
-![Screenshot 2023-10-04 144800](https://github.com/bhavanap12/stock-management-system/assets/23119773/a7d210c4-5fb3-4ee7-86a5-1ef8c959ce78)
+![Screenshot 2023-10-04 144800](https://github.com/bhavanap12/stock-management-system/assets/23119773/b66701c4-9162-476a-9d7f-5a14c91e4893)
 
 Recieve page gas quantity to be recieved and the logged in user is stored as the reciever directly.
-![Screenshot 2023-10-04 144909](https://github.com/bhavanap12/stock-management-system/assets/23119773/99ad4f3f-ba9b-4f64-b4f3-cc2e288e6cea)
+![Screenshot 2023-10-04 144909](https://github.com/bhavanap12/stock-management-system/assets/23119773/9d3d8d29-7565-42c1-a6c2-8230fcb73a38)
 
 ## Reorder level
 Reorder level helps in giving alerts to the users that the item is running low and it has to be ordered. Different level can be set for different item.
-![Screenshot 2023-10-04 144743](https://github.com/bhavanap12/stock-management-system/assets/23119773/af9f686b-c466-495d-b613-8bc07b13291c)
+![Screenshot 2023-10-04 144743](https://github.com/bhavanap12/stock-management-system/assets/23119773/55198578-2282-4cc9-bf39-3c6d31fd03be)
 
 ## Delete item
 Items can be deleted from the table using the button. This redirects to confirmation page and user can select the choice appropriately.
-![Screenshot 2023-10-04 144922](https://github.com/bhavanap12/stock-management-system/assets/23119773/5f82b168-435b-4649-8952-38cbab6a82e0)
+![Screenshot 2023-10-04 144922](https://github.com/bhavanap12/stock-management-system/assets/23119773/5d91b2cc-248a-46fe-98e7-c7702411d3c3)
 
 ## Add item
 Items can be added by entering category, item name and quantity in the page.
