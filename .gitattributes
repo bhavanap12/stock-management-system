@@ -1,0 +1,2 @@
+* linguist_vendored
+*.py linguist-vendored=false
